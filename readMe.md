@@ -1,7 +1,8 @@
 <h1>Migration de Base de Données vers Redis et MongoDB</h1>
 <h2>Objectif</h2>
 
-Ce projet consiste à migrer une base de données existante vers Redis et MongoDB en suivant une approche structurée, en commençant par Redis, puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les performances et la gestion des données à l'aide de ces technologies.
+Ce projet consiste à migrer une base de données existante d'un client vers Redis et MongoDB, en commençant par Redis,
+puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les performances et la gestion des données à l'aide de ces technologies.
 
 <h2>Étapes du Projet</h2>
 
