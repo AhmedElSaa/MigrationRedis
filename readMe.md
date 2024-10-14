@@ -22,9 +22,9 @@ Performance : Les tests montrent une amélioration notable des temps de réponse
 
 <h2>Technologies utilisées</h2>
 
-    Redis : Base de données NoSQL
-    Python : Language de programmation utilisé pour lier python et redis
-    JSON : Format de données pour structurer la base de données
+Redis : Base de données NoSQL
+Python : Language de programmation utilisé pour lier python et redis
+JSON : Format de données pour structurer la base de données
 
 <h2>Installation</h2>
 
