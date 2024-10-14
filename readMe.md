@@ -18,7 +18,7 @@ puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les perf
 
 <h2>Résultats</h2>
 
-    - Performance : Les tests montrent une amélioration notable des temps de réponse avec Redis pour les requêtes sur les données.
+Performance : Les tests montrent une amélioration notable des temps de réponse avec Redis pour les requêtes sur les données.
 
 <h2>Technologies utilisées</h2>
 
