@@ -1,0 +1,38 @@
+720	 Boeing 727	150	Marseille
+250	Boeing 747	500	Paris
+269	Boeing 737	300	Paris
+240	Boeing 737	300	Paris
+256	Boeing 747	220	Paris 
+722	Boeing 737	350	Toulon
+140	Boeing 727	150	Strasbourg
+401	Boeing 727	150	Dijon
+820	Boeing 737	350	Ajaccio
+840	Boeing 727	150	Montpellier
+205	Boeing 747	350	Metz
+640	Boeing 727	150	Nantes
+207	Boeing 737	350	Nimes
+202	Falcon 900	30	Nice
+320	Falcon 900	30	Avignon
+210	Dc10	200	Nantes
+440	Concorde	100	Marseille
+614	Dc20	255	Beyrouth
+615	Caravelle	80	Alger
+660	Dc20	295	Alger
+220	Concorde	100	New York
+225	Tupolev	150	Pekin
+325	Antonov	500	Marseille
+122	Falcon 900	40	Avignon
+620	Antonov	580	Moscou
+801	Concorde	100	Rome
+811	Caravelle	380	Naples
+311	Dc10	265	Ankara
+411	Tupolev	130	Istanbul
+511	Airbus A320	280	Toulouse
+525	Airbus A320	270	Paris
+535	Airbus A330	370	Marseille
+415	Airbus A330	350	Nice
+560	Airbus A320	250	Nice
+715	Airbus A310	150	Ajaccio
+915	Airbus A340	350	Nice
+315	Airbus A340	350	Marseille
+101	Boeing 707	350	Beyrouth
