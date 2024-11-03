@@ -1,10 +1,9 @@
-<h1>Migration de Base de Données vers Redis et MongoDB</h1>
-<h2>Objectif</h2>
+#Migration de Base de Données vers Redis et MongoDB
+##Objectif
 
-Ce projet consiste à migrer une base de données existante d'un client vers Redis et MongoDB, en commençant par Redis,
-puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les performances et la gestion des données à l'aide de ces technologies.
+Ce projet consiste à migrer une base de données existante vers Redis et MongoDB en suivant une approche structurée, en commençant par Redis, puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les performances et la gestion des données à l'aide de ces technologies.
 
-<h2>Étapes du Projet</h2>
+##Étapes du Projet
 
 1. Installation de Redis en local
 
@@ -16,35 +15,35 @@ puis en poursuivant avec MongoDB. L'objectif principal est d'améliorer les perf
 
 5. Jointure des Données en JSON
 
-<h2>Résultats</h2>
+##Résultats
 
-Performance : Les tests montrent une amélioration notable des temps de réponse avec Redis pour les requêtes sur les données.
+    Performance : Les tests montrent une amélioration notable des temps de réponse avec Redis pour les requêtes sur les données.
 
-<h2>Technologies utilisées</h2>
+##Technologies utilisées
 
-Redis : Base de données NoSQL
-Python : Language de programmation utilisé pour lier python et redis
-JSON : Format de données pour structurer la base de données
+    Redis : Base de données NoSQL
+    Python : Language de programmation utilisé pour lier python et redis
+    JSON : Format de données pour structurer la base de données
 
-<h2>Installation</h2>
+##Installation
 
 bash
 
 pip install redis pymongo
 
-<h2>Exécuter le programme</h2>
+##Exécuter le programme
 
 bash
 
     python script.py
 
-<h2>Structure des fichiers</h2>
+##Structure des fichiers
 
     bddPilotes/: Contient les fichiers .txt.
     venv/: Environnement Python
     fichiers.py: Scripts Python pour la conversion et la manipulation des données.
     README.md: Documentation du projet (ce fichier).
 
-<h2>Auteurs</h2>
+##Auteurs
 
-EL SAADAWY Ahmed - Développeur
+    EL SAADAWY Ahmed - Développeur
